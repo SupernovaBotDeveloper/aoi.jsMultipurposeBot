@@ -24,11 +24,11 @@
 
 And more....!!
 
-##Installation!
+###Installation!
 
 Type `git-clone https://github.com/SupernovaBotDeveloper/dbd.jsMultipurposeBot`
 And clone the repository and then install all the dependencies in `package.json`
 
 Once doing that,you're free to run the bot!
 
-##Credit me for the Code!
+###Credit me for the Code!
