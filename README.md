@@ -31,4 +31,4 @@ And clone the repository and then install all the dependencies in `package.json`
 
 Once doing that,you're free to run the bot!
 
-### Credit me for the Code!
+### Credits to leaf and Beiriri for codes,some codes are made by me too
