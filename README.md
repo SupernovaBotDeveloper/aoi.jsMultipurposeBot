@@ -1,7 +1,5 @@
-  <br />
-    <p>
-    <a href="https://dbd.leref.ga"><img src=" alt="dbd.js" /></a>
-  </p>
+# This repository is outdated! The Aoi version is old!
+## I am working to update the bot soon (As of 15th Feb 2024)
 
 # Multipurpose Discord Bot
 
